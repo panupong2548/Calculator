@@ -9,5 +9,7 @@ L = Label(GUI,text='Panupong Wongjinda')
 L.pack()
 L = Label(GUI,text='panupong2548')
 L.pack()
+L = Label(GUI,text='gamezee00008')
+L.pack()
 
 GUI.mainloop()
